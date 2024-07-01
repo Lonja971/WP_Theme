@@ -1,0 +1,1 @@
+console.log('Js also added to my wp project.');
